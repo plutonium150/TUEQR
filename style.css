@@ -1,0 +1,31 @@
+
+  .logo{
+  height:280px;
+  width:640px;
+  margin-left: 280px;
+  margin-top: 10px;
+}
+.sans{
+	font: 12pt/10pt sans-serif; 
+}
+.header{
+	font: 12pt/10pt sans-serif;
+  margin:auto;
+  width:994px;
+  background-color:#4f4f4f;
+}
+.spaceholder1{
+  width: inherit;
+  background-color:inherit;
+  height:10px;
+}
+.body{
+	background-color:#100f10;
+}
+#divan1{
+	width:1002px;
+	height:310px;
+	margin-left: 330px;
+	margin-top: -8px;
+	border:4px solid #4f4f4f;
+}

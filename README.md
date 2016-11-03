@@ -1,2 +1,2 @@
-# TUEQR
-Проект об Истории
+# MonX94.github.io
+My own project website
